@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;AI%2FML+Beginner;DSA+and+Core+CS;Learning+by+Building+Projects" />
 </p> -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ5Y2tqYWR0cXB0b3h4Z3ZlY2p5dG1zZHVkMGZ2c25xY3NnY2t5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
+
 
 
 ---
