@@ -1,175 +1,162 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:f5e6fa,50:e8d5f5,100:ddc4f0&height=220&section=header&text=Raj%20Sarkar&fontSize=58&fontColor=3d1a5c&fontAlignY=55&desc=full-stack%20developer%20%E2%80%A2%20mern%20%E2%80%A2%20open%20source%20enthusiast&descSize=15&descAlignY=75&descColor=7b4fa6&animation=fadeIn)
-
-<br>
-
-![Pronouns](https://img.shields.io/badge/he%2Fhim-f5e6fa?style=flat-square&color=e8d5f5)&nbsp;
-![Open to Work](https://img.shields.io/badge/open%20to%20opportunities-e6f7f0?style=flat-square&color=e6f7f0)&nbsp;
-![Builds with MERN](https://img.shields.io/badge/builds%20with%20MERN-fef3e2?style=flat-square&color=fef3e2)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Sarkar&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=crafting%20the%20web%2C%20one%20component%20at%20a%20time%20✦&descSize=16&descFontColor=a78bfa&descAlignY=65&animation=fadeIn" />
 
 </div>
 
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░ -->
-
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-### &nbsp;✦ &nbsp;a little about me
-
-```
-  Name   →  Raj Sarkar
-  Role   →  Full-Stack Developer
-  Stack  →  MongoDB · Express · React · Node
-  Based  →  India
-  Status →  Always building something
-```
-
-&nbsp;— I turn ideas into interfaces and caffeine into commits.  
-&nbsp;— Obsessed with clean UI, smooth UX, and readable code.  
-&nbsp;— Currently exploring the intersection of design & dev.  
-&nbsp;— Open to collaboration, freelance & new adventures.
-
-<br clear="right"/>
-
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ SOCIALS ░░░░░░░░░░░░░░░░░░░░ -->
+<br/>
 
 <div align="center">
 
-### ✦ &nbsp;find me around the web
-
-<br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-rayansingh067%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:rayansingh067@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/raj-sarkar-7b43b027a)&nbsp;
-[![X](https://img.shields.io/badge/X-@RajSarkar13443-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000)](https://x.com/@RajSarkar13443)
-
-[![Medium](https://img.shields.io/badge/Medium-@_rajsarkar._-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@_rajsarkar._)&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-32114451-F58025?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=F58025)](https://stackoverflow.com/users/32114451)&nbsp;
-[![CodePen](https://img.shields.io/badge/CodePen-Rayan--singh-000000?style=flat-square&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/@Rayan-singh)&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-rayan.singh-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/rayan.singh.92775)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(MERN);AI+%2F+ML+Enthusiast;B.Tech+Student+%7C+Builder+at+Heart;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Repeat)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░ -->
+## &nbsp;`~/about-me` &nbsp;
+
+```ts
+const raj: Developer = {
+  name       : "Raj Sarkar",
+  role       : "Full-Stack Developer",
+  focus      : ["MERN Stack", "Machine Learning", "DSA"],
+  openTo     : ["Collaborations", "Internships", "Open Source"],
+  currentlyL : ["Next.js", "TypeScript", "ML Fundamentals"],
+  askMeAbout : ["Web Dev", "Git & GitHub", "Internship Tips"],
+  contact    : "rayansingh067@gmail.com",
+  funFact    : "I debug in the dark  🌙",
+};
+```
+
+---
+
+## &nbsp;`~/connect` &nbsp;
 
 <div align="center">
 
-### ✦ &nbsp;tech stack
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rayan.singh.92775)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-sarkar-7b43b027a)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_rajsarkar._)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32114451)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RajSarkar13443)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/@Rayan-singh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayansingh067@gmail.com)
 
-<br>
+</div>
+
+---
+
+## &nbsp;`~/stack` &nbsp;
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-fff0eb?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-eef3ff?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-fffde7?style=flat-square&logo=javascript&logoColor=c9a800)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-eef3ff?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=00b4d8)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=flat-square&logo=nextdotjs&logoColor=000000)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind-e0f7fa?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-f0faf0?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
-![Express](https://img.shields.io/badge/Express-f5f5f5?style=flat-square&logo=express&logoColor=000000)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-f0faf0?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
-![REST API](https://img.shields.io/badge/REST%20API-fff0f5?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-fff8e1?style=flat-square&logo=jsonwebtokens&logoColor=d63031)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br>
+**AI / ML**
 
-**Tools & Workflow**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-fff0eb?style=flat-square&logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=flat-square&logo=github&logoColor=181717)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-eef3ff?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-fff0eb?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-fff5f0?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-e8f4fb?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-fffde7?style=flat-square&logo=linux&logoColor=c9a800)
+**Tools**
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<br>
+---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-### ✦ &nbsp;github stats
-
-<br>
-
-<a href="https://github.com/raj-sarkar123">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&bg_color=faf5ff&border_color=ddc4f0&icon_color=9b59b6&title_color=6c3483&text_color=4a235a&hide_border=false&count_private=true&border_radius=12" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/raj-sarkar123">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&bg_color=faf5ff&border_color=ddc4f0&title_color=6c3483&text_color=4a235a&hide_border=false&langs_count=7&border_radius=12" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=raj-sarkar123&background=faf5ff&border=ddc4f0&ring=9b59b6&fire=c0392b&currStreakLabel=6c3483&sideLabels=6c3483&currStreakNum=4a235a&sideNums=4a235a&dates=888888&border_radius=12" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░ -->
+## &nbsp;`~/stats` &nbsp;
 
 <div align="center">
 
-### ✦ &nbsp;contribution activity
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=faf5ff&color=6c3483&line=9b59b6&point=c0392b&area=true&area_color=e8d5f5&hide_border=false&border_color=ddc4f0&custom_title=contribution%20graph&radius=12)
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&count_private=true" />
+&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd" />
 
 </div>
 
-<br>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-### ✦ &nbsp;watch the snake
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/raj-sarkar123/raj-sarkar123/output/github-contribution-grid-snake-dark.svg)
+<img src="https://nirzak-streak-stats.vercel.app/?user=raj-sarkar123&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
-<br>
+---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░ -->
+## &nbsp;`~/activity` &nbsp;
 
 <div align="center">
 
-> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."*  
-> — Atwood's Law
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" />
 
-<br>
+</div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
+---
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:ddc4f0,50:e8d5f5,100:f5e6fa&height=120&section=footer&reversal=true)
+## &nbsp;`~/trophies` &nbsp;
 
-<br>
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=raj-sarkar123&style=flat-square&color=9b59b6&label=profile+views&labelColor=f5e6fa)
+<img src="https://github-profile-trophy.vercel.app/?username=raj-sarkar123&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" />
 
-*crafted with care · raj-sarkar123 · 2025*
+</div>
+
+---
+
+## &nbsp;`~/thought` &nbsp;
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+## &nbsp;`~/contribution-snake` &nbsp;
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raj-sarkar123&label=profile+views&color=7c3aed&style=flat-square" />
 
 </div>
