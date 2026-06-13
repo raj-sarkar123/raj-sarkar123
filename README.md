@@ -1,187 +1,175 @@
 <div align="center">
 
-<!-- ██████████████████████████████████████████ HEADER ██████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░ -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:00ff41,50:00d4ff,100:008b8b&height=200&section=header&text=raj-sarkar123&fontSize=52&fontColor=0a0a0a&fontAlignY=70&desc=>%20initializing...&descSize=18&descAlignY=88&descColor=0a0a0a&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:f5e6fa,50:e8d5f5,100:ddc4f0&height=220&section=header&text=Raj%20Sarkar&fontSize=58&fontColor=3d1a5c&fontAlignY=55&desc=full-stack%20developer%20%E2%80%A2%20mern%20%E2%80%A2%20open%20source%20enthusiast&descSize=15&descAlignY=75&descColor=7b4fa6&animation=fadeIn)
 
-</div>
+<br>
 
-<!-- ██████████████████████████████████████████ TERMINAL ABOUT ██████████████████████████████████████████ -->
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│              SSH raj-sarkar123@github.com -p 443              │
-│         Connected. Shell session active. Type help()          │
-└──────────────────────────────────────────────────────────────┘
-
-~/boot $ systemctl start portfolio.service
-[  OK  ] Starting identity service...
-[  OK  ] Loading skill modules...
-[  OK  ] Mounting social graph...
-[████████████████████] 100% — boot complete.
-
-~/whoami $ echo $IDENTITY
-> Name     : Raj Sarkar
-> Role     : Full-Stack Developer  [ MERN | Web | Open Source ]
-> Location : /dev/earth/india
-> Status   : 🟢 Online — ready to build
-
-~/whoami $ cat about.txt
-> I write code that talks to servers, APIs, and occasionally to myself.
-> Coffee-fueled dev. Bug whisperer. UI obsessive.
-> Currently: shipping projects, learning things, breaking stuff on purpose.
-
-~/ping $ ping passion.exe
-> PING passion.exe (127.0.0.1): 56 bytes in
-> 64 bytes from 0.0.0.0: icmp_seq=0 ttl=64 time=0.001 ms
-> Response: [ building things that matter ]
-
-~/connect $ cat links.cfg
-> 📧  rayansingh067@gmail.com
-> 💼  linkedin.com/in/raj-sarkar-7b43b027a
-> 🐦  x.com/@RajSarkar13443
-> 📝  medium.com/@_rajsarkar._
-> 🏗️   stackoverflow.com/users/32114451
-> 🎨  codepen.io/@Rayan-singh
-> 👥  facebook.com/rayan.singh.92775
-```
-
-<!-- ██████████████████████████████████████████ SOCIAL BADGES ██████████████████████████████████████████ -->
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-rayansingh067-00ff41?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0d1117)](mailto:rayansingh067@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--sarkar-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0d1117)](https://linkedin.com/in/raj-sarkar-7b43b027a)
-[![X](https://img.shields.io/badge/X-RajSarkar13443-00ff41?style=for-the-badge&logo=x&logoColor=0a0a0a&labelColor=0d1117)](https://x.com/@RajSarkar13443)
-[![Medium](https://img.shields.io/badge/Medium-_rajsarkar._-00d4ff?style=for-the-badge&logo=medium&logoColor=0a0a0a&labelColor=0d1117)](https://medium.com/@_rajsarkar._)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-32114451-00ff41?style=for-the-badge&logo=stackoverflow&logoColor=0a0a0a&labelColor=0d1117)](https://stackoverflow.com/users/32114451)
-[![CodePen](https://img.shields.io/badge/CodePen-Rayan--singh-00d4ff?style=for-the-badge&logo=codepen&logoColor=0a0a0a&labelColor=0d1117)](https://codepen.io/@Rayan-singh)
-[![Facebook](https://img.shields.io/badge/Facebook-rayan.singh-00ff41?style=for-the-badge&logo=facebook&logoColor=0a0a0a&labelColor=0d1117)](https://facebook.com/rayan.singh.92775)
+![Pronouns](https://img.shields.io/badge/he%2Fhim-f5e6fa?style=flat-square&color=e8d5f5)&nbsp;
+![Open to Work](https://img.shields.io/badge/open%20to%20opportunities-e6f7f0?style=flat-square&color=e6f7f0)&nbsp;
+![Builds with MERN](https://img.shields.io/badge/builds%20with%20MERN-fef3e2?style=flat-square&color=fef3e2)
 
 </div>
 
-<!-- ██████████████████████████████████████████ TECH STACK ██████████████████████████████████████████ -->
+<br>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░ -->
+
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+### &nbsp;✦ &nbsp;a little about me
 
 ```
-/* ─────────────────────────────────────────────── */
-/*              ~/skills  ::  TECH STACK           */
-/* ─────────────────────────────────────────────── */
+  Name   →  Raj Sarkar
+  Role   →  Full-Stack Developer
+  Stack  →  MongoDB · Express · React · Node
+  Based  →  India
+  Status →  Always building something
 ```
 
-```bash
-~/skills $ ls -la frontend/
-```
+&nbsp;— I turn ideas into interfaces and caffeine into commits.  
+&nbsp;— Obsessed with clean UI, smooth UX, and readable code.  
+&nbsp;— Currently exploring the intersection of design & dev.  
+&nbsp;— Open to collaboration, freelance & new adventures.
+
+<br clear="right"/>
+
+<br>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ SOCIALS ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=0a0a0a&labelColor=0d1117)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0d1117)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-00ff41?style=for-the-badge&logo=nextdotjs&logoColor=0a0a0a&labelColor=0d1117)](https://nextjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=0a0a0a&labelColor=0d1117)](https://tailwindcss.com/)
+### ✦ &nbsp;find me around the web
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-rayansingh067%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:rayansingh067@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--sarkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/raj-sarkar-7b43b027a)&nbsp;
+[![X](https://img.shields.io/badge/X-@RajSarkar13443-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000)](https://x.com/@RajSarkar13443)
+
+[![Medium](https://img.shields.io/badge/Medium-@_rajsarkar._-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@_rajsarkar._)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-32114451-F58025?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=F58025)](https://stackoverflow.com/users/32114451)&nbsp;
+[![CodePen](https://img.shields.io/badge/CodePen-Rayan--singh-000000?style=flat-square&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/@Rayan-singh)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-rayan.singh-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/rayan.singh.92775)
 
 </div>
 
-```
-/* ─────────────────────────────────────────────── */
-```
+<br>
 
-```bash
-~/skills $ ls -la backend/
-```
+<!-- ░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=0a0a0a&labelColor=0d1117)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-00ff41?style=for-the-badge&logo=express&logoColor=0a0a0a&labelColor=0d1117)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=0a0a0a&labelColor=0d1117)](https://www.mongodb.com/)
-[![REST API](https://img.shields.io/badge/REST_API-00d4ff?style=for-the-badge&logo=fastapi&logoColor=0a0a0a&labelColor=0d1117)](https://restfulapi.net/)
-[![JWT](https://img.shields.io/badge/JWT-00ff41?style=for-the-badge&logo=jsonwebtokens&logoColor=0a0a0a&labelColor=0d1117)](https://jwt.io/)
+### ✦ &nbsp;tech stack
+
+<br>
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-fff0eb?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-eef3ff?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-fffde7?style=flat-square&logo=javascript&logoColor=c9a800)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-eef3ff?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![React](https://img.shields.io/badge/React-e8f8ff?style=flat-square&logo=react&logoColor=00b4d8)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=flat-square&logo=nextdotjs&logoColor=000000)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-e0f7fa?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+<br>
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-f0faf0?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/Express-f5f5f5?style=flat-square&logo=express&logoColor=000000)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-f0faf0?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
+![REST API](https://img.shields.io/badge/REST%20API-fff0f5?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-fff8e1?style=flat-square&logo=jsonwebtokens&logoColor=d63031)
+
+<br>
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-fff0eb?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=flat-square&logo=github&logoColor=181717)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-eef3ff?style=flat-square&logo=visualstudiocode&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-fff0eb?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-fff5f0?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-e8f4fb?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-fffde7?style=flat-square&logo=linux&logoColor=c9a800)
 
 </div>
 
-```
-/* ─────────────────────────────────────────────── */
-```
+<br>
 
-```bash
-~/skills $ ls -la tools/
-```
+<!-- ░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0d1117)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0d1117)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a&labelColor=0d1117)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=0a0a0a&labelColor=0d1117)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/Figma-00d4ff?style=for-the-badge&logo=figma&logoColor=0a0a0a&labelColor=0d1117)](https://figma.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=0a0a0a&labelColor=0d1117)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=0a0a0a&labelColor=0d1117)](https://kernel.org/)
+### ✦ &nbsp;github stats
+
+<br>
+
+<a href="https://github.com/raj-sarkar123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&bg_color=faf5ff&border_color=ddc4f0&icon_color=9b59b6&title_color=6c3483&text_color=4a235a&hide_border=false&count_private=true&border_radius=12" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/raj-sarkar123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&bg_color=faf5ff&border_color=ddc4f0&title_color=6c3483&text_color=4a235a&hide_border=false&langs_count=7&border_radius=12" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=raj-sarkar123&background=faf5ff&border=ddc4f0&ring=9b59b6&fire=c0392b&currStreakLabel=6c3483&sideLabels=6c3483&currStreakNum=4a235a&sideNums=4a235a&dates=888888&border_radius=12" alt="GitHub Streak" />
 
 </div>
 
-```
-/* ─────────────────────────────────────────────── */
-/*            ~/stats  ::  GITHUB METRICS          */
-/* ─────────────────────────────────────────────── */
-```
+<br>
 
-<!-- ██████████████████████████████████████████ GITHUB STATS ██████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&icon_color=00d4ff&title_color=00ff41&text_color=c9d1d9&hide_border=true&count_private=true)
+### ✦ &nbsp;contribution activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raj-sarkar123&theme=dark&background=0a0a0a&border=00ff41&ring=00d4ff&fire=00ff41&currStreakLabel=00d4ff&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=true&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=faf5ff&color=6c3483&line=9b59b6&point=c0392b&area=true&area_color=e8d5f5&hide_border=false&border_color=ddc4f0&custom_title=contribution%20graph&radius=12)
 
 </div>
 
-```
-/* ─────────────────────────────────────────────── */
-/*          ~/activity  ::  CONTRIBUTION GRAPH     */
-/* ─────────────────────────────────────────────── */
-```
+<br>
 
-<!-- ██████████████████████████████████████████ ACTIVITY GRAPH ██████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=0a0a0a&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff41&hide_border=true&custom_title=~/activity%20--live)
+### ✦ &nbsp;watch the snake
 
-</div>
-
-```
-/* ─────────────────────────────────────────────── */
-/*          ~/snake  ::  CONTRIBUTION SNAKE        */
-/* ─────────────────────────────────────────────── */
-```
-
-<!-- ██████████████████████████████████████████ SNAKE ██████████████████████████████████████████ -->
-
-<div align="center">
+<br>
 
 ![Snake animation](https://raw.githubusercontent.com/raj-sarkar123/raj-sarkar123/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<!-- ██████████████████████████████████████████ FOOTER ██████████████████████████████████████████ -->
+<br>
 
-```bash
-~/exit $ shutdown -h now
-> Saving session state...
-> Flushing buffers...
-> [████████████████████] 100%
-> Connection to github.com closed.
-```
+<!-- ░░░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:008b8b,50:00d4ff,100:00ff41&height=120&section=footer&reversal=true)
+> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."*  
+> — Atwood's Law
 
-![Visitor Count](https://komarev.com/ghpvc/?username=raj-sarkar123&style=for-the-badge&color=00ff41&label=CONNECTIONS+ESTABLISHED&labelColor=0d1117)
+<br>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:ddc4f0,50:e8d5f5,100:f5e6fa&height=120&section=footer&reversal=true)
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=raj-sarkar123&style=flat-square&color=9b59b6&label=profile+views&labelColor=f5e6fa)
+
+*crafted with care · raj-sarkar123 · 2025*
 
 </div>
