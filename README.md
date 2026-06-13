@@ -1,158 +1,162 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raj%20Sarkar&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Sarkar&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=crafting%20the%20web%2C%20one%20component%20at%20a%20time%20✦&descSize=16&descFontColor=a78bfa&descAlignY=65&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🚀+MERN+Stack+Developer;🤖+Beginner+AI%2FML+Engineer;📐+DSA+%26+Core+CS+Learner;🔨+Learning+by+Building+%26+Breaking;💡+Open+Source+Contributor" alt="Typing SVG" />
-</a>
+</div>
 
 <br/>
 
-<!-- Profile Views & Social Proof -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=raj-sarkar123&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/raj-sarkar123?label=Followers&style=social" alt="Followers" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(MERN);AI+%2F+ML+Enthusiast;B.Tech+Student+%7C+Builder+at+Heart;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Repeat)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## &nbsp;`~/about-me` &nbsp;
 
-## 🧑‍💻 About Me
-
-```javascript
-const raj = {
-  role: "Full-Stack Developer & AI/ML Beginner",
-  education: "B.Tech Student",
-  currentFocus: ["MERN Stack", "Machine Learning", "DSA"],
-  openTo: ["Collaborations", "Internships", "Mentorship"],
-  learning: ["MERN", "DSA", "ML", "Core CS"],
-  askMeAbout: ["Web Dev", "ML Basics", "Git/GitHub"],
-  funFact: "I learn best by building, breaking & rebuilding 🚀",
+```ts
+const raj: Developer = {
+  name       : "Raj Sarkar",
+  role       : "Full-Stack Developer",
+  focus      : ["MERN Stack", "Machine Learning", "DSA"],
+  openTo     : ["Collaborations", "Internships", "Open Source"],
+  currentlyL : ["Next.js", "TypeScript", "ML Fundamentals"],
+  askMeAbout : ["Web Dev", "Git & GitHub", "Internship Tips"],
+  contact    : "rayansingh067@gmail.com",
+  funFact    : "I debug in the dark  🌙",
 };
 ```
 
-- 🔭 Working on **MERN stack** & **beginner AI/ML projects**
-- 👯 Open to collaborating on **Full-Stack** and **ML** projects
-- 🤝 Seeking guidance on **placements, career direction & impactful projects**
-- 🌱 Currently mastering **React, Node.js, DSA & Machine Learning**
-- ⚡ **Fun fact:** The best debugger is a good night's sleep 😄
-
-<br clear="right"/>
-
 ---
 
-## 🌐 Connect With Me
+## &nbsp;`~/connect` &nbsp;
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rayan.singh.92775)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-sarkar-7b43b027a)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rayan.singh.92775)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-sarkar-7b43b027a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_rajsarkar._)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32114451)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32114451)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RajSarkar13443)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Rayan-singh)
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/@Rayan-singh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayansingh067@gmail.com)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## &nbsp;`~/stack` &nbsp;
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## &nbsp;`~/stats` &nbsp;
 
 <div align="center">
 
-### 🚀 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&count_private=true" />
+&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd" />
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
-### 🤖 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://nirzak-streak-stats.vercel.app/?user=raj-sarkar123&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## &nbsp;`~/activity` &nbsp;
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raj-sarkar123&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## &nbsp;`~/trophies` &nbsp;
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raj-sarkar123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=raj-sarkar123&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" />
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## &nbsp;`~/thought` &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&area_color=00D9FF" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## &nbsp;`~/contribution-snake` &nbsp;
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 ---
 
-## ✍️ Dev Quote of the Day
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=raj-sarkar123&label=profile+views&color=7c3aed&style=flat-square" />
+
 </div>
-
----
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
