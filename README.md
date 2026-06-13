@@ -1,162 +1,187 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Sarkar&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=crafting%20the%20web%2C%20one%20component%20at%20a%20time%20✦&descSize=16&descFontColor=a78bfa&descAlignY=65&animation=fadeIn" />
+<!-- ██████████████████████████████████████████ HEADER ██████████████████████████████████████████ -->
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:00ff41,50:00d4ff,100:008b8b&height=200&section=header&text=raj-sarkar123&fontSize=52&fontColor=0a0a0a&fontAlignY=70&desc=>%20initializing...&descSize=18&descAlignY=88&descColor=0a0a0a&animation=fadeIn)
 
 </div>
 
-<br/>
+<!-- ██████████████████████████████████████████ TERMINAL ABOUT ██████████████████████████████████████████ -->
 
-<div align="center">
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│              SSH raj-sarkar123@github.com -p 443              │
+│         Connected. Shell session active. Type help()          │
+└──────────────────────────────────────────────────────────────┘
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+(MERN);AI+%2F+ML+Enthusiast;B.Tech+Student+%7C+Builder+at+Heart;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Repeat)](https://git.io/typing-svg)
+~/boot $ systemctl start portfolio.service
+[  OK  ] Starting identity service...
+[  OK  ] Loading skill modules...
+[  OK  ] Mounting social graph...
+[████████████████████] 100% — boot complete.
 
-</div>
+~/whoami $ echo $IDENTITY
+> Name     : Raj Sarkar
+> Role     : Full-Stack Developer  [ MERN | Web | Open Source ]
+> Location : /dev/earth/india
+> Status   : 🟢 Online — ready to build
 
----
+~/whoami $ cat about.txt
+> I write code that talks to servers, APIs, and occasionally to myself.
+> Coffee-fueled dev. Bug whisperer. UI obsessive.
+> Currently: shipping projects, learning things, breaking stuff on purpose.
 
-## &nbsp;`~/about-me` &nbsp;
+~/ping $ ping passion.exe
+> PING passion.exe (127.0.0.1): 56 bytes in
+> 64 bytes from 0.0.0.0: icmp_seq=0 ttl=64 time=0.001 ms
+> Response: [ building things that matter ]
 
-```ts
-const raj: Developer = {
-  name       : "Raj Sarkar",
-  role       : "Full-Stack Developer",
-  focus      : ["MERN Stack", "Machine Learning", "DSA"],
-  openTo     : ["Collaborations", "Internships", "Open Source"],
-  currentlyL : ["Next.js", "TypeScript", "ML Fundamentals"],
-  askMeAbout : ["Web Dev", "Git & GitHub", "Internship Tips"],
-  contact    : "rayansingh067@gmail.com",
-  funFact    : "I debug in the dark  🌙",
-};
+~/connect $ cat links.cfg
+> 📧  rayansingh067@gmail.com
+> 💼  linkedin.com/in/raj-sarkar-7b43b027a
+> 🐦  x.com/@RajSarkar13443
+> 📝  medium.com/@_rajsarkar._
+> 🏗️   stackoverflow.com/users/32114451
+> 🎨  codepen.io/@Rayan-singh
+> 👥  facebook.com/rayan.singh.92775
 ```
 
----
-
-## &nbsp;`~/connect` &nbsp;
+<!-- ██████████████████████████████████████████ SOCIAL BADGES ██████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/rayan.singh.92775)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-sarkar-7b43b027a)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_rajsarkar._)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32114451)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@RajSarkar13443)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/@Rayan-singh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayansingh067@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-rayansingh067-00ff41?style=for-the-badge&logo=gmail&logoColor=0a0a0a&labelColor=0d1117)](mailto:rayansingh067@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--sarkar-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0d1117)](https://linkedin.com/in/raj-sarkar-7b43b027a)
+[![X](https://img.shields.io/badge/X-RajSarkar13443-00ff41?style=for-the-badge&logo=x&logoColor=0a0a0a&labelColor=0d1117)](https://x.com/@RajSarkar13443)
+[![Medium](https://img.shields.io/badge/Medium-_rajsarkar._-00d4ff?style=for-the-badge&logo=medium&logoColor=0a0a0a&labelColor=0d1117)](https://medium.com/@_rajsarkar._)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-32114451-00ff41?style=for-the-badge&logo=stackoverflow&logoColor=0a0a0a&labelColor=0d1117)](https://stackoverflow.com/users/32114451)
+[![CodePen](https://img.shields.io/badge/CodePen-Rayan--singh-00d4ff?style=for-the-badge&logo=codepen&logoColor=0a0a0a&labelColor=0d1117)](https://codepen.io/@Rayan-singh)
+[![Facebook](https://img.shields.io/badge/Facebook-rayan.singh-00ff41?style=for-the-badge&logo=facebook&logoColor=0a0a0a&labelColor=0d1117)](https://facebook.com/rayan.singh.92775)
 
 </div>
 
----
+<!-- ██████████████████████████████████████████ TECH STACK ██████████████████████████████████████████ -->
 
-## &nbsp;`~/stack` &nbsp;
+```
+/* ─────────────────────────────────────────────── */
+/*              ~/skills  ::  TECH STACK           */
+/* ─────────────────────────────────────────────── */
+```
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## &nbsp;`~/stats` &nbsp;
+```bash
+~/skills $ ls -la frontend/
+```
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&count_private=true" />
-&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd" />
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=0a0a0a&labelColor=0d1117)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0d1117)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-00ff41?style=for-the-badge&logo=nextdotjs&logoColor=0a0a0a&labelColor=0d1117)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=0a0a0a&labelColor=0d1117)](https://tailwindcss.com/)
 
 </div>
 
+```
+/* ─────────────────────────────────────────────── */
+```
+
+```bash
+~/skills $ ls -la backend/
+```
+
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=raj-sarkar123&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=0a0a0a&labelColor=0d1117)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-00ff41?style=for-the-badge&logo=express&logoColor=0a0a0a&labelColor=0d1117)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=0a0a0a&labelColor=0d1117)](https://www.mongodb.com/)
+[![REST API](https://img.shields.io/badge/REST_API-00d4ff?style=for-the-badge&logo=fastapi&logoColor=0a0a0a&labelColor=0d1117)](https://restfulapi.net/)
+[![JWT](https://img.shields.io/badge/JWT-00ff41?style=for-the-badge&logo=jsonwebtokens&logoColor=0a0a0a&labelColor=0d1117)](https://jwt.io/)
 
 </div>
 
----
+```
+/* ─────────────────────────────────────────────── */
+```
 
-## &nbsp;`~/activity` &nbsp;
+```bash
+~/skills $ ls -la tools/
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" />
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0d1117)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0d1117)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a&labelColor=0d1117)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=0a0a0a&labelColor=0d1117)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/Figma-00d4ff?style=for-the-badge&logo=figma&logoColor=0a0a0a&labelColor=0d1117)](https://figma.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=0a0a0a&labelColor=0d1117)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=0a0a0a&labelColor=0d1117)](https://kernel.org/)
 
 </div>
 
----
+```
+/* ─────────────────────────────────────────────── */
+/*            ~/stats  ::  GITHUB METRICS          */
+/* ─────────────────────────────────────────────── */
+```
 
-## &nbsp;`~/trophies` &nbsp;
+<!-- ██████████████████████████████████████████ GITHUB STATS ██████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raj-sarkar123&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-sarkar123&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&icon_color=00d4ff&title_color=00ff41&text_color=c9d1d9&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=raj-sarkar123&theme=dark&background=0a0a0a&border=00ff41&ring=00d4ff&fire=00ff41&currStreakLabel=00d4ff&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sarkar123&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&title_color=00ff41&text_color=c9d1d9&hide_border=true&langs_count=8)
 
 </div>
 
----
+```
+/* ─────────────────────────────────────────────── */
+/*          ~/activity  ::  CONTRIBUTION GRAPH     */
+/* ─────────────────────────────────────────────── */
+```
 
-## &nbsp;`~/thought` &nbsp;
+<!-- ██████████████████████████████████████████ ACTIVITY GRAPH ██████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-sarkar123&bg_color=0a0a0a&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff41&hide_border=true&custom_title=~/activity%20--live)
 
 </div>
 
----
+```
+/* ─────────────────────────────────────────────── */
+/*          ~/snake  ::  CONTRIBUTION SNAKE        */
+/* ─────────────────────────────────────────────── */
+```
 
-## &nbsp;`~/contribution-snake` &nbsp;
+<!-- ██████████████████████████████████████████ SNAKE ██████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+![Snake animation](https://raw.githubusercontent.com/raj-sarkar123/raj-sarkar123/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
+<!-- ██████████████████████████████████████████ FOOTER ██████████████████████████████████████████ -->
+
+```bash
+~/exit $ shutdown -h now
+> Saving session state...
+> Flushing buffers...
+> [████████████████████] 100%
+> Connection to github.com closed.
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:008b8b,50:00d4ff,100:00ff41&height=120&section=footer&reversal=true)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=raj-sarkar123&label=profile+views&color=7c3aed&style=flat-square" />
+![Visitor Count](https://komarev.com/ghpvc/?username=raj-sarkar123&style=for-the-badge&color=00ff41&label=CONNECTIONS+ESTABLISHED&labelColor=0d1117)
 
 </div>
